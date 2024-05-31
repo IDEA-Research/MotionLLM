@@ -136,6 +136,14 @@ This code is distributed under an [IDEA LICENSE](LICENSE). Note that our code de
 
 If you have any question, please contact at: thu [DOT] lhchen [AT] gmail [DOT] com AND shunlinlu0803 [AT] gmail [DOT] com.
 
+## 🌟 Star History
+
+<p align="center">
+    <a href="https://star-history.com/#IDEA-Research/MotionLLM&Date" target="_blank">
+        <img width="500" src="https://api.star-history.com/svg?repos=IDEA-Research/MotionLLM&type=Date" alt="Star History Chart">
+    </a>
+<p>
+
 
 ## 📜 Citation
 ```bash
