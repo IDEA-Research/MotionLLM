@@ -19,10 +19,10 @@
 <sup>4</sup>The Hong Kong University of Science and Technology
 
 <p align="center">
-  <a href='https://arxiv.org/abs/2304'>
-  <img src='https://img.shields.io/badge/Arxiv-2304.tomorrow-A42C25?style=flat&logo=arXiv&logoColor=A42C25'>
+  <a href='https://arxiv.org/abs/2405.20340'>
+  <img src='https://img.shields.io/badge/Arxiv-2405.20340-A42C25?style=flat&logo=arXiv&logoColor=A42C25'>
   </a> 
-  <a href='https://arxiv.org/pdf/2304.pdf'>
+  <a href='https://arxiv.org/pdf/2405.20340.pdf'>
   <img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow'>
   </a> 
   <a href='https://lhchen.top/MotionLLM'>
@@ -41,7 +41,7 @@
 
 # 📰 News
 
-We will release the project at May 31st, 2024. 
+- **[2024-05-31]: Paper, demo, and codes are released.** 
 
 
 # 🤩 Abstract
@@ -136,3 +136,13 @@ This code is distributed under an [IDEA LICENSE](LICENSE). Note that our code de
 
 If you have any question, please contact at: thu [DOT] lhchen [AT] gmail [DOT] com AND shunlinlu0803 [AT] gmail [DOT] com.
 
+
+## 📜 Citation
+```bash
+@article{chen2024motionllm,
+  title={MotionLLM: Understanding Human Behaviors from Human Motions and Videos},
+  author={Chen, Ling-Hao and Lu, Shunlin and Zeng, Ailing and Zhang, Hao and Wang, Benyou and Zhang, Ruimao and Zhang, Lei},
+  journal={arXiv preprint arXiv:2405.20340},
+  year={2024}
+}
+```
