@@ -31,6 +31,9 @@
     <img src='https://img.shields.io/badge/Blog-post-4EABE6?style=flat&logoColor=4EABE6'></a>
   <a href='https://github.com/IDEA-Research/MotionLLM'>
   <img src='https://img.shields.io/badge/GitHub-Code-black?style=flat&logo=github&logoColor=white'></a> 
+  <a href='http://demo.humotionx.com/'>
+  <img src='https://img.shields.io/badge/gradio-demo-red.svg'>
+  </a> 
   <a href='LICENSE'>
   <img src='https://img.shields.io/badge/License-IDEA-blue.svg'>
   </a> 
