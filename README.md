@@ -45,7 +45,7 @@
 # 📰 News
 
 - **[2024-05-31]: Paper, demo, and codes are released.** 
-
+- **[2024-06-09]: CLI mode is supported.**
 
 # 🤩 Abstract
 
@@ -147,6 +147,7 @@ The man plan to xxx.
 
 ## 💼 To-Do
 
+- [x] Release the CLI demo of MotionLLM.
 - [x] Release the video demo of MotionLLM.
 - [ ] Release the motion demo of MotionLLM.
 - [ ] Release the MoVid dataset and MoVid-Bench.
