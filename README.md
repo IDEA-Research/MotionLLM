@@ -106,6 +106,9 @@ Keep them in a folder named and remember the path (`LINEAR_V` and `LORA`).
 
 ### 2.3 Run the demo 
 
+<details>
+  <summary><b> Choice 1: gradio demo </b></summary>
+
 ```bash
 GRADIO_TEMP_DIR=temp python app.py --lora_path $LORA --mlp_path $LINEAR_V
 ```
@@ -116,6 +119,30 @@ HF_ENDPOINT=https://hf-mirror.com GRADIO_TEMP_DIR=temp python app.py --lora_path
 The `GRADIO_TEMP_DIR=temp` defines a temporary directory as `./temp` for the Gradio to store the data. You can change it to your own path.
 
 After thiess, you can open the browser and visit the local host via the command line output reminder. If it is not loaded, please change the IP address as your local IP address (via command `ifconfig`).
+
+
+</details>
+
+
+
+<details>
+  <summary><b> Choice 2: CLI demo </b></summary>
+We also provide a CLI demo for you to try the MotionLLM. You can run the following command to try the MotionLLM.
+
+```bash
+python cli.py --lora_path $LORA --mlp_path $LINEAR_V
+```
+
+During inference, you can input the video path and your question to get the answer. 
+```bash
+# Example here
+Input video path: xxx.mp4
+Your question: what xxx ?
+================================
+The man plan to xxx. 
+================================
+```
+</details>
 
 
 ## 💼 To-Do
