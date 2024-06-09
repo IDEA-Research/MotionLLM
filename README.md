@@ -44,8 +44,8 @@
 
 # 📰 News
 
-- **[2024-05-31]: Paper, demo, and codes are released.** 
 - **[2024-06-09]: CLI mode is supported.**
+- **[2024-05-31]: Paper, demo, and codes are released.** 
 
 # 🤩 Abstract
 
