@@ -44,8 +44,8 @@
 
 # 📰 News
 
-- **[2024-06-11]: CLI mode is supported. MotionLLM is running on A100 GPU on 🤗[HuggingFace demo](https://huggingface.co/spaces/EvanTHU/MotionLLM).**
-- **[2024-05-31]: Paper, demo, and codes are released.** 
+- **[2024-06-11]: CLI mode is supported. MotionLLM is running on A100 GPU on 🤗[HuggingFace demo](https://huggingface.co/spaces/EvanTHU/MotionLLM) (Posts on [Twitter](https://twitter.com/Gradio/status/1800434110873096663)).**
+- **[2024-05-31]: Paper, demo, and codes are released (Posts on [Twitter](https://twitter.com/Evan_THU/status/1796380129280844193)).** 
 
 # 🤩 Abstract
 
