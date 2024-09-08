@@ -77,7 +77,7 @@ pip install -r requirements.txt
   <summary><b> 2.1 Download the LLM </b></summary>
 
 Please follow the instruction of [Lit-GPT](https://github.com/Lightning-AI/litgpt) to prepare the LLM model (vicuna 1.5-7B). These files will be: 
-```bah
+```bash
 ./checkpoints/vicuna-7b-v1.5
 ├── generation_config.json
 ├── lit_config.json
@@ -88,6 +88,8 @@ Please follow the instruction of [Lit-GPT](https://github.com/Lightning-AI/litgp
 ├── tokenizer_config.json
 └── tokenizer.model
 ```
+
+For how to get `lit_model.pth`, please refer to [issue 9](https://github.com/IDEA-Research/MotionLLM/issues/9).
 
 If you have any confusion, we will update a more detailed instruction in couple of days.
 
