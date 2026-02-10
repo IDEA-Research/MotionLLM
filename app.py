@@ -549,7 +549,7 @@ model.load_state_dict(model_state_dict, strict=True)
 print('Load llm base model from', pretrained_llm_path)
 print('Load lora model from', lora_path)
 
-# load mlp again, to en sure, not neccessary actually 
+# load mlp again, to en sure, not necessary actually 
 linear_proj.load_state_dict(pretrained_checkpoint_mlp)
 linear_proj = linear_proj.cuda()
 print('Load mlp model again from', mlp_path)
